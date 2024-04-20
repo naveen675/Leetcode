@@ -1,6 +1,7 @@
 //https://leetcode.com/problems/buy-two-chocolates/description/
 // O(N) O(1)
-
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
 class Solution {
     public int buyChoco(int[] prices, int money) {
          int [] freq = new int[101];
